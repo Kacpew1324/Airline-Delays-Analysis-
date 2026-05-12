@@ -55,3 +55,6 @@ The project allowed me to develop skills related to:
 -designing dashboards and business visualizations,
 -using DAX for advanced calculations,
 -presenting data in a way that supports business decision-making.
+
+ <img width="1421" height="794" alt="image" src="https://github.com/user-attachments/assets/745e73d5-1274-466c-9862-36652201ced6" />
+
