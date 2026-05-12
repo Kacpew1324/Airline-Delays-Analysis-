@@ -1,6 +1,6 @@
 # Airline-Delays-Analysis-
 
-PL 🇵🇱 
+PL
 
 Projekt „Airline Delays Analysis” został zrealizowany w Microsoft Power BI jako część projektu końcowego podczas kursu analizy danych. Celem projektu była analiza opóźnień lotów na amerykańskich lotniskach w latach 2003–2022 oraz identyfikacja czynników wpływających na ich występowanie.
 
@@ -28,7 +28,7 @@ Projekt pozwolił mi rozwinąć umiejętności związane z:
 -wykorzystaniem języka DAX do zaawansowanych obliczeń,
 -prezentacją danych w sposób wspierający podejmowanie decyzji biznesowych.
 
-EN 🇬🇧
+EN
 
 The "Airline Delays Analysis" project was implemented using Microsoft Power BI as part of a final project during a data analysis course. The project's goal was to analyze flight delays at US airports from 2003 to 2022 and identify the factors influencing their occurrence.
 
